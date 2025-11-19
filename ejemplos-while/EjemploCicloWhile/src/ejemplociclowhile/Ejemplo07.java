@@ -42,6 +42,7 @@ public class Ejemplo07 {
             if (temporal == -1) {
                 bandera = false;
             }
+            
         }
 
         promedio_final = suma_total / contador;
