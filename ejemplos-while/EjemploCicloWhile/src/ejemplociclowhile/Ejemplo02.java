@@ -34,3 +34,7 @@ public class Ejemplo02 {
         
     }
 }
+/*
+Se ejecuta el programa, se pide un limite y se presenta en pantalla todos los 
+numeros divisibles para 2 hasta que llegue al limite.
+*/
