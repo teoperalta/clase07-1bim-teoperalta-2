@@ -28,7 +28,6 @@ public class Ejemplo02 {
                 System.out.printf("Contador %d\n", 
                     contador);
             }
-            
             contador = contador + 1;
         }
         
