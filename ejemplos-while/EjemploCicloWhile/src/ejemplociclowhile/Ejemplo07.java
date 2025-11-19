@@ -42,7 +42,6 @@ public class Ejemplo07 {
             if (temporal == -1) {
                 bandera = false;
             }
-
         }
 
         promedio_final = suma_total / contador;
@@ -50,3 +49,9 @@ public class Ejemplo07 {
 
     }
 }
+/*
+Solicita calificaciones hasta que el usuario decida salir, y presenta el
+promedio de todas las calificaciones divididiendo el valor final del contador 
+para la suma de calificaciones, y el while presenta el dato booleano de bandera
+con verdadero y da fin cuando se vuelva falso.
+*/
